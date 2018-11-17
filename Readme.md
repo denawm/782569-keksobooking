@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Ивахно](https://up.htmlacademy.ru/javascript/16/user/782569).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Пиковец](https://up.htmlacademy.ru/javascript/16/user/503133).
 
 ---
 
